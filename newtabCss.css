@@ -40,9 +40,9 @@ ul li a:hover{
 body{
   background-image: url(images/background.jpg);
   background-repeat: no-repeat;
-  background-size: 1280px 620px;
-  width: 1200px;
-  height: 500px;
+  background-size: cover;
+  /*width: 1200px;
+  height: 500px;*/
   background-attachment: fixed;
 }
 
